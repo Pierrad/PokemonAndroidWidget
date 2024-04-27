@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokemonTeam</string>
+    <string name="add_widget">Pokemon Team</string>
+    <string name="app_widget_description">Get a new pokemon team every 30 minutes</string>
+</resources>
